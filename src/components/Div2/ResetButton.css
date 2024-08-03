@@ -1,0 +1,24 @@
+.reset-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+
+.reset-button.default {
+  background-color: grey;
+}
+
+
+.reset-button.changed {
+  background-color:  rgb(38, 194, 173)
+}
+
+
+
+
+
+
+
